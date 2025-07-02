@@ -36,10 +36,18 @@
 
 ### 🧠 Data Structures & Algorithms
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://img.icons8.com/external-outline-juicy-fish/60/external-data-structure-coding-outline-outline-juicy-fish.png" alt="Data Structures" width="40" height="40"/></a>
-  <a href="https://visualgo.net/en" target="_blank"><img src="https://img.icons8.com/ios/50/algorithm.png" alt="Algorithms" width="40" height="40"/></a>
-  <a href="https://leetcode.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/data-structure.png" alt="Data Structures" width="40" height="40"/>
+  </a>
+  <a href="https://visualgo.net/en" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/algorithm.png" alt="Algorithms" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/>
+  </a>
 </p>
 
 ---

@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **eCart App**
 
-- 🌱 I’m currently learning **React Native,OpenShift,Vuejs**
+- 🌱 I’m currently learning **Pytorch, TensorFlow, OpenShift,**
 
 - 👨‍💻 All of my projects are available at [https://www.navjotsinghh.com/](https://www.navjotsinghh.com/)
 
-- 💬 Ask me about **React, Angular, MERN, Microservices, Spring Boot**
+- 💬 Ask me about **Machine Learning, AI (AutoML, GenAI), Data Analytics, Data Structure**
 
 - 📫 How to reach me **navjot2608@gmail.com**
 

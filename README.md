@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navjot Singh</h1>
-<h3 align="center">A passionate Senior Full Stack Developer</h3>
+<h3 align="center">Machine Learning Engineer | Full Stack Developer | AI & Data Engineer</h3>
 
 - 🔭 I’m currently working on **eCart App**
 

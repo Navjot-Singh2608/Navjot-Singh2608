@@ -1,108 +1,216 @@
 <h1 align="center">Hi 👋, I'm Navjot Singh</h1>
-<h3 align="center">Machine Learning Engineer | Full Stack Developer | AI & Data Engineer</h3>
 
-- 🔭 I’m currently working on **eCart App**
+<h3 align="center">
+Senior Full Stack Developer | AI/ML & Generative AI | React • FastAPI • Python
+</h3>
 
-- 🌱 I’m currently learning **Pytorch, TensorFlow, OpenShift,**
-
-- 👨‍💻 All of my projects are available at [https://www.navjotsinghh.com/](https://www.navjotsinghh.com/)
-
-- 💬 Ask me about **Machine Learning, AI (AutoML, GenAI), Data Analytics, Data Structure**
-
-- 📫 How to reach me **navjot2608@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h2 align="center">🚀 Technologies & Tools I Master</h2>
-
----
-
-### 💡 Machine Learning, Data Science & AI
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://xgboost.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" width="40" height="40"/></a>
-  <a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/></a>
+Building scalable web applications and expanding into AI-powered systems using Machine Learning, LangChain and Retrieval-Augmented Generation (RAG).
 </p>
 
----
-
-### 🧠 Data Structures & Algorithms
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/data-structure.png" alt="Data Structures" width="40" height="40"/>
+  <a href="https://www.navjotsinghh.com/">
+    <img src="https://img.shields.io/badge/Portfolio-navjotsinghh.com-blue?style=for-the-badge" />
   </a>
-  <a href="https://visualgo.net/en" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/algorithm.png" alt="Algorithms" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/>
+  <a href="mailto:navjot2608@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### 📊 Data Analytics & BI
-<p align="center">
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/></a>
-  <a href="https://www.dataiku.com/" target="_blank"><img src="https://seeklogo.com/images/D/dataiku-logo-5829B65F0E-seeklogo.com.png" alt="Dataiku" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/></a>
-  <a href="https://www.elastic.co/kibana/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Kibana" width="40" height="40"/></a>
+## 🚀 About Me
+
+* 💻 Senior Software Developer with experience building **full-stack and cloud-based applications**
+* 🤖 Currently building **AI, Machine Learning and RAG-based applications**
+* 🧠 Learning and working with **LangChain, OpenAI, Embeddings, FAISS, ChromaDB and Vector Databases**
+* ⚡ Building backend APIs using **FastAPI, Python, Node.js and Spring Boot**
+* ⚛️ Frontend development with **React, Angular, Next.js and TypeScript**
+* 📊 Experienced with **Machine Learning, Data Analytics and Data Visualization**
+* ☁️ Working with **AWS, Docker, Kubernetes and CI/CD**
+* 🎯 Current focus: **Generative AI + RAG + Full Stack AI Applications**
+
+---
+
+## 🔥 Current Projects
+
+### 📄 Document AI
+
+Retrieval-Augmented Generation application for querying documents using:
+
+`LangChain` • `OpenAI` • `FAISS` • `Embeddings` • `Semantic Search` • `Pydantic`
+
+```text
+Document → Chunking → Embeddings → FAISS
+                         ↓
+Question → Semantic Search → Relevant Context → LLM → Answer
+```
+
+### 🛒 ShopCart
+
+Full-stack e-commerce application built with:
+
+`React` • `FastAPI` • `PostgreSQL` • `JWT Authentication` • `REST APIs`
+
+### 🤖 Machine Learning Projects
+
+Hands-on projects covering:
+
+`Regression` • `Classification` • `Decision Trees` • `Random Forest` • `KNN` • `SVM` • `Model Evaluation`
+
+---
+
+# 🛠️ Tech Stack
+
+## 🤖 Generative AI & RAG
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+
 </p>
 
 ---
 
-### ☁️ Cloud Platforms & DevOps
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
+## 🧠 Machine Learning & Data Science
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+</p>
+
+**Concepts**
+
+`Linear Regression` • `Logistic Regression` • `Decision Trees` • `Random Forest` • `KNN` • `SVM` • `PCA` • `GridSearchCV` • `Cross Validation`
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,java,python" />
+
+</p>
+
+`FastAPI` • `REST APIs` • `JWT` • `Authentication` • `SQLAlchemy` • `Spring Boot` • `Microservices`
+
+---
+
+## 💻 Frontend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,typescript,javascript,html,css,tailwind" />
+
 </p>
 
 ---
 
-### 🗃️ Databases
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></a>
+## 🗄️ Databases & Vector Stores
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+</p>
+
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `FAISS` • `ChromaDB`
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github" />
+
+</p>
+
+`AWS` • `Docker` • `Kubernetes` • `Jenkins` • `GitHub Actions` • `CI/CD`
+
+---
+
+## 📊 Data & Analytics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
 </p>
 
 ---
 
-### ⚙️ CI/CD, Containers & Orchestration
+## 📚 Currently Learning
+
+```text
+Generative AI
+├── LangChain
+├── Retrieval-Augmented Generation (RAG)
+├── Embeddings
+├── Vector Databases
+├── FAISS
+├── ChromaDB
+├── Prompt Engineering
+└── Structured LLM Outputs
+
+Machine Learning
+├── Scikit-Learn
+├── Model Evaluation
+├── Feature Engineering
+├── XGBoost
+├── PyTorch
+└── TensorFlow
+```
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
-  <a href="https://circleci.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCI" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Navjot-Singh2608&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navjot-Singh2608&layout=compact&theme=github_dark&hide_border=true" />
+
 </p>
 
 ---
 
-### 💻 Programming Languages
-<p align="center">
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-</p>
+## 🎯 What I'm Building Toward
+
+I'm combining my **Full Stack Engineering** background with **Machine Learning and Generative AI** to build production-oriented AI applications such as:
+
+* 📄 Intelligent Document Q&A Systems
+* 🧠 Retrieval-Augmented Generation Applications
+* 🤖 AI Assistants
+* 🔍 Semantic Search Systems
+* 📊 ML-powered Web Applications
+* ⚡ FastAPI + React AI Platforms
 
 ---
 
-</p>
+## 🤝 Connect With Me
 
+🌐 **Portfolio:** [navjotsinghh.com](https://www.navjotsinghh.com/)
+
+📧 **Email:** [navjot2608@gmail.com](mailto:navjot2608@gmail.com)
+
+---
+
+<p align="center">
+  <b>Full Stack Engineering × Machine Learning × Generative AI</b>
+</p>

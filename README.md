@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Navjot Singh</h1>
 
 <h3 align="center">
-Senior Full Stack Developer | AI/ML & Generative AI | React • FastAPI • Python
+Senior Full Stack Developer | Generative AI & RAG | React • FastAPI • Python
 </h3>
 
 <p align="center">
-Building scalable web applications and expanding into AI-powered systems using Machine Learning, LangChain and Retrieval-Augmented Generation (RAG).
+Building scalable full-stack applications and AI-powered systems using FastAPI, React, LangChain, OpenAI, Machine Learning and Retrieval-Augmented Generation (RAG).
 </p>
 
 <p align="center">
@@ -21,42 +21,103 @@ Building scalable web applications and expanding into AI-powered systems using M
 
 ## 🚀 About Me
 
-* 💻 Senior Software Developer with experience building **full-stack and cloud-based applications**
-* 🤖 Currently building **AI, Machine Learning and RAG-based applications**
-* 🧠 Learning and working with **LangChain, OpenAI, Embeddings, FAISS, ChromaDB and Vector Databases**
-* ⚡ Building backend APIs using **FastAPI, Python, Node.js and Spring Boot**
-* ⚛️ Frontend development with **React, Angular, Next.js and TypeScript**
-* 📊 Experienced with **Machine Learning, Data Analytics and Data Visualization**
+* 💻 Senior Software Developer experienced in building **full-stack, backend and cloud-based applications**
+* 🤖 Building **Generative AI and Retrieval-Augmented Generation (RAG) applications**
+* 🧠 Working with **LangChain, OpenAI, Embeddings, FAISS, ChromaDB and Vector Search**
+* ⚡ Building APIs using **FastAPI, Python, Node.js and Spring Boot**
+* ⚛️ Developing modern frontends with **React, Angular, Next.js and TypeScript**
+* 📊 Hands-on experience with **Machine Learning, Data Analytics and Model Evaluation**
 * ☁️ Working with **AWS, Docker, Kubernetes and CI/CD**
-* 🎯 Current focus: **Generative AI + RAG + Full Stack AI Applications**
+* 🎯 Current focus: **Full Stack AI Applications, Advanced RAG and AI Engineering**
 
 ---
 
-## 🔥 Current Projects
+# 🔥 Featured Projects
 
-### 📄 Document AI
+## 🤖 Resume Copilot
 
-Retrieval-Augmented Generation application for querying documents using:
+AI-powered resume and job matching platform that analyzes resumes against job descriptions and provides personalized recommendations.
 
-`LangChain` • `OpenAI` • `FAISS` • `Embeddings` • `Semantic Search` • `Pydantic`
+### Key Capabilities
+
+* Resume PDF/DOCX processing
+* Job description analysis
+* Matching skills identification
+* Missing skill detection
+* Resume improvement suggestions
+* Semantic similarity search
+* Retrieval-Augmented Generation
+* Structured LLM responses
+* JWT authentication
+* PostgreSQL integration
+
+### Tech Stack
+
+`React` • `TypeScript` • `FastAPI` • `Python` • `PostgreSQL` • `JWT` • `LangChain` • `OpenAI` • `FAISS` • `Pydantic` • `RAG`
 
 ```text
-Document → Chunking → Embeddings → FAISS
-                         ↓
-Question → Semantic Search → Relevant Context → LLM → Answer
+Resume + Job Description
+          ↓
+      Text Processing
+          ↓
+       Embeddings
+          ↓
+         FAISS
+          ↓
+   Semantic Retrieval
+          ↓
+ Relevant Resume Context
+          ↓
+         LLM
+          ↓
+Structured Resume Analysis
 ```
 
-### 🛒 ShopCart
+---
 
-Full-stack e-commerce application built with:
+## 📄 Document AI
 
-`React` • `FastAPI` • `PostgreSQL` • `JWT Authentication` • `REST APIs`
+Retrieval-Augmented Generation application for asking questions about documents using semantic search and LLM-generated answers.
 
-### 🤖 Machine Learning Projects
+### Tech Stack
+
+`Python` • `LangChain` • `OpenAI` • `FAISS` • `Embeddings` • `Semantic Search` • `Pydantic`
+
+```text
+Document
+   ↓
+Chunking
+   ↓
+Embeddings
+   ↓
+FAISS
+   ↓
+Semantic Search
+   ↓
+Relevant Context
+   ↓
+LLM
+   ↓
+Structured Answer
+```
+
+---
+
+## 🛒 ShopCart
+
+Full-stack e-commerce application featuring authentication, product management, cart functionality and order workflows.
+
+### Tech Stack
+
+`React` • `FastAPI` • `PostgreSQL` • `JWT Authentication` • `SQLAlchemy` • `REST APIs`
+
+---
+
+## 🤖 Machine Learning Projects
 
 Hands-on projects covering:
 
-`Regression` • `Classification` • `Decision Trees` • `Random Forest` • `KNN` • `SVM` • `Model Evaluation`
+`Linear Regression` • `Logistic Regression` • `Decision Trees` • `Random Forest` • `KNN` • `SVM` • `PCA` • `GridSearchCV` • `Cross Validation` • `Model Evaluation`
 
 ---
 
@@ -76,6 +137,10 @@ Hands-on projects covering:
 
 </p>
 
+**AI Concepts**
+
+`Retrieval-Augmented Generation` • `Embeddings` • `Vector Databases` • `Semantic Search` • `Prompt Engineering` • `Structured Outputs` • `Document Processing`
+
 ---
 
 ## 🧠 Machine Learning & Data Science
@@ -91,9 +156,9 @@ Hands-on projects covering:
 
 </p>
 
-**Concepts**
+**Machine Learning Concepts**
 
-`Linear Regression` • `Logistic Regression` • `Decision Trees` • `Random Forest` • `KNN` • `SVM` • `PCA` • `GridSearchCV` • `Cross Validation`
+`Linear Regression` • `Logistic Regression` • `Decision Trees` • `Random Forest` • `KNN` • `SVM` • `PCA` • `GridSearchCV` • `Cross Validation` • `Precision` • `Recall` • `F1 Score`
 
 ---
 
@@ -105,7 +170,7 @@ Hands-on projects covering:
 
 </p>
 
-`FastAPI` • `REST APIs` • `JWT` • `Authentication` • `SQLAlchemy` • `Spring Boot` • `Microservices`
+`FastAPI` • `REST APIs` • `JWT Authentication` • `SQLAlchemy` • `Spring Boot` • `Microservices` • `Pydantic`
 
 ---
 
@@ -116,6 +181,8 @@ Hands-on projects covering:
 <img src="https://skillicons.dev/icons?i=react,angular,nextjs,typescript,javascript,html,css,tailwind" />
 
 </p>
+
+`React` • `Angular` • `Next.js` • `TypeScript` • `JavaScript` • `Tailwind CSS`
 
 ---
 
@@ -154,31 +221,34 @@ Hands-on projects covering:
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Exploring
 
 ```text
 Generative AI
-├── LangChain
-├── Retrieval-Augmented Generation (RAG)
-├── Embeddings
-├── Vector Databases
-├── FAISS
-├── ChromaDB
-├── Prompt Engineering
-└── Structured LLM Outputs
+├── Advanced RAG
+├── Hybrid Search
+├── Reranking
+├── RAG Evaluation
+├── LangGraph
+└── AI Agent Workflows
 
 Machine Learning
-├── Scikit-Learn
-├── Model Evaluation
 ├── Feature Engineering
 ├── XGBoost
 ├── PyTorch
 └── TensorFlow
+
+AI Engineering
+├── FastAPI AI APIs
+├── Production RAG
+├── Dockerized AI Applications
+├── LLM Evaluation
+└── Cloud Deployment
 ```
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -190,20 +260,22 @@ Machine Learning
 
 ---
 
-## 🎯 What I'm Building Toward
+# 🎯 What I'm Building Toward
 
-I'm combining my **Full Stack Engineering** background with **Machine Learning and Generative AI** to build production-oriented AI applications such as:
+I'm combining my **Full Stack Engineering** background with **Generative AI and Machine Learning** to build practical AI-powered products such as:
 
+* 🤖 AI-powered Full Stack Applications
 * 📄 Intelligent Document Q&A Systems
 * 🧠 Retrieval-Augmented Generation Applications
-* 🤖 AI Assistants
-* 🔍 Semantic Search Systems
-* 📊 ML-powered Web Applications
+* 🔍 Semantic Search Platforms
+* 💼 AI Career & Resume Tools
+* 🤖 AI Assistants and Agentic Workflows
+* 📊 Machine Learning-powered Applications
 * ⚡ FastAPI + React AI Platforms
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 🌐 **Portfolio:** [navjotsinghh.com](https://www.navjotsinghh.com/)
 
@@ -212,5 +284,5 @@ I'm combining my **Full Stack Engineering** background with **Machine Learning a
 ---
 
 <p align="center">
-  <b>Full Stack Engineering × Machine Learning × Generative AI</b>
+  <b>Full Stack Engineering × Generative AI × Machine Learning</b>
 </p>

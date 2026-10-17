@@ -9,14 +9,14 @@ Building scalable full-stack applications and AI-powered systems using FastAPI, 
 </p>
 
 <p align="center">
-  <a href="https://www.navjotsinghh.com/">
-    <img src="https://my-portfolio-66i9.vercel.app/" />
+  <a href="https://my-portfolio-66i9.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" alt="Portfolio" />
   </a>
+
   <a href="mailto:navjot2608@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge" alt="Email" />
   </a>
 </p>
-
 ---
 
 ## 🚀 About Me
